@@ -340,8 +340,6 @@ table#css1 th:nth-child(n+2), table#css1 td:nth-child(n+2){display:none}
 #content #prevdetails .fl_left, #content #prevdetails .fl_right{display:block; width:45%; margin:0 0 30px 0; padding:0}
 #content #prevdetails .buttons{font-size:1.6em}
 }
-#[Bayrak 2/3: ilk yurt dışı seferimizi yaptığımız uçağın, tescil kodunu birinci bayrak parçasının sonuna , koyarak ekleyin örnek; "XX-XXX," ]
-#[Bayrak 3/3: uçuşun yapıldığı havaalanını daha önce ziyaret edip yorum bıraktık, ancak yorumu bulamıyorum, tek bildiğim kullanıcı kimliğimin 1387642706 olduğu, yardım eder misin?] 
 @media screen and (min-width:960px){
 #topbar, #header, #shout, #container, #copyright{max-width:978px; margin:0 auto}
 }
